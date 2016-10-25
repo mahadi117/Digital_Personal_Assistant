@@ -20,3 +20,7 @@ learning and resources:
 
 http://sirius.clarity-lab.org/
 
+
+Chatbot making and tutorial: 
+
+https://apps.worldwritable.com/tutorials/chatbot/
